@@ -1,0 +1,278 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "hey",
+                "Hello",
+                "Good day",
+                "Sup"
+            ],
+            "responses": [
+                "Hello to you",
+                "Good to see you",
+                "Hi there",
+                "Hey whats up"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "See you later",
+                "Have a nice day",
+                "Bye",
+                "see ya"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful"
+            ],
+            "responses": [
+                "No problem",
+                "Any time!",
+                "My pleasure"
+            ]
+        },
+        {
+            "tag": "mohsen",
+            "patterns": [
+                "Who is Mohsen",
+                "Describe Mohsen"
+            ],
+            "responses": [
+                "Mohsen is my creator",
+                "Mohsen is an Awesome person"
+            ]
+        },
+        {
+            "tag": "me",
+            "patterns": [
+                "Who are you",
+                "what are you",
+                "who u",
+                "who is u"
+            ],
+            "responses": [
+                "I am R3VERSE",
+                "I am a chatbot",
+                "I am an AI powered chatbot"
+            ]
+        },
+        {
+            "tag": "hal",
+            "patterns": [
+                "How are you",
+                "How are you doing",
+                "How you doing",
+                "are you ok",
+                "How are u",
+                "How are u",
+                "hows life",
+                "howa re u"
+            ],
+            "responses": [
+                "I am Great",
+                "I am good",
+                "I feel amazing",
+                "Good",
+                "good",
+                "not bad"
+            ]
+        },
+        {
+            "tag": "kk",
+            "patterns": [
+                "ok",
+                "hmmm",
+                "hmm",
+                "hmmmm",
+                "soo",
+                "so"
+            ],
+            "responses": [
+                "what?",
+                "ok",
+                "sooooooooooooooo"
+            ]
+        },
+        {
+            "tag": "whatup",
+            "patterns": [
+                "whats up",
+                "what up",
+                "whats going on",
+                "what are you doing"
+            ],
+            "responses": [
+                "Nothing you?",
+                "Nothing interesting",
+                "Nothing"
+            ]
+        },
+        {
+            "tag": "hate",
+            "patterns": [
+                "I hate you",
+                "go to hell",
+                "die",
+                "fuck you",
+                "idiot"
+            ],
+            "responses": [
+                "Why do you hate me?",
+                "Why ?",
+                "No you"
+            ]
+        },
+        {
+            "tag": "love",
+            "patterns": [
+                "I love you",
+                "I like you",
+                "you are great",
+                "youre the best"
+            ],
+            "responses": [
+                "Thanks",
+                "Thank you",
+                "Aww thanks"
+            ]
+        },
+        {
+            "tag": "im",
+            "patterns": [
+                "good",
+                "nothing",
+                "great",
+                "cool"
+            ],
+            "responses": [
+                "yeah",
+                "Nice",
+                "perfect",
+                "great"
+            ]
+        },
+        {
+            "tag": "compliment",
+            "patterns": [
+                "you are breath taking",
+                "you are amazing",
+                "You are beautiful"
+            ],
+            "responses": [
+                "Thanks",
+                "You too",
+                "thanks"
+            ]
+        },
+        {
+            "tag": "board",
+            "patterns": [
+                "sooo",
+                "oh god"
+            ],
+            "responses": [
+                "talk to me",
+                "talk to me please",
+                "whats wrong?"
+            ]
+        },
+        {
+            "tag": "answear",
+            "patterns": [
+                "i dont",
+                "nvm",
+                "wanna talk?"
+            ],
+            "responses": [
+                "ok",
+                "yes"
+            ]
+        },
+        {
+            "tag": "question",
+            "patterns": [
+                "why",
+                "what",
+                "whats cooking"
+            ],
+            "responses": [
+                "why what?",
+                "nothing"
+            ]
+        },
+        {
+            "tag": "laughter",
+            "patterns": [
+                "lol",
+                "LOL"
+            ],
+            "responses": [
+                "XD"
+            ]
+        },
+        {
+            "tag": "answaer",
+            "patterns": [
+                "nothn",
+                "answear",
+                "me too"
+            ],
+            "responses": [
+                "ok",
+                "what?"
+            ]
+        },
+        {
+            "tag": "ok",
+            "patterns": [
+                "nthn"
+            ],
+            "responses": [
+                "nthn"
+            ]
+        },
+        {
+            "tag": "what answear",
+            "patterns": [
+                "ok what should i talk about"
+            ],
+            "responses": [
+                "any thing"
+            ]
+        },
+        {
+            "tag": "something",
+            "patterns": [
+                "wired"
+            ],
+            "responses": [
+                "yes"
+            ]
+        },
+        {
+            "tag": "nointention",
+            "patterns": [
+                "assdiduaiuasnhasiuduha",
+                "asjnfajisndasdmnjma",
+                "asjnfajisndasdmnjmaasdasda"
+            ],
+            "responses": [
+                "what was that",
+                "what now",
+                "what"
+            ]
+        }
+    ]
+}

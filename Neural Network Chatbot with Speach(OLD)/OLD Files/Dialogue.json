@@ -1,0 +1,121 @@
+{
+    "intents": [
+        {
+            "tag": "hello",
+            "patterns": [
+                "hello",
+                "hi",
+                "hey",
+                "hi ras",
+                "hello ras"
+            ],
+            "responses": [
+                "hello sir",
+                "hi sir"
+            ]
+        },
+        {
+            "tag": "howyoufeel",
+            "patterns": [
+                "How are you?",
+                "how are you",
+                "how are you ras"
+            ],
+            "responses": [
+                "im good thank you"
+            ]
+        },
+        {
+            "tag": "farewell",
+            "patterns": [
+                "Goodbye",
+                "farewell",
+                "bye ras"
+            ],
+            "responses": [
+                "bye sir",
+                "see you later sir"
+            ]
+        },
+        {
+            "tag": "introduce",
+            "patterns": [
+                "RAS Who are you",
+                "Ras who are u",
+                "Ras who are you?",
+                "who are you"
+            ],
+            "responses": [
+                "I am an intelegent system",
+                "I am an Assistant",
+                "I am something like JARVIS ... Rest in peace",
+                "I am me",
+                "My real name is RIAIS. But my friends call me Raas",
+                "i am raas"
+            ]
+        },
+        {
+            "tag": "abilities",
+            "patterns": [
+                "What can you do",
+                "what are you able to do"
+            ],
+            "responses": [
+                "i can open files, turn lights on and off and other stuff",
+                "i can talk to you and help you"
+            ]
+        },
+        {
+            "tag": "beingloved",
+            "patterns": [
+                "I Love you Ras"
+            ],
+            "responses": [
+                "awwww thank you sir. i love you too"
+            ]
+        },
+        {
+            "tag": "goodcompliment",
+            "patterns": [
+                "You are the best",
+                "you are the greatest"
+            ],
+            "responses": [
+                "no, you are",
+                "i was made to be"
+            ]
+        },
+        {
+            "tag": "thank",
+            "patterns": [
+                "Thank you ras",
+                "thank you"
+            ],
+            "responses": [
+                "no problem sir",
+                "your welcome sir"
+            ]
+        },
+        {
+            "tag": "nothing",
+            "patterns": [
+                "Nthn"
+            ],
+            "responses": [
+                "ok"
+            ]
+        },
+        {
+            "tag": "whatsup",
+            "patterns": [
+                "what up"
+            ],
+            "responses": [
+                "nothing much",
+                "Not much",
+                "Nothing",
+                "I'm good"
+            ]
+        }
+    ]
+}

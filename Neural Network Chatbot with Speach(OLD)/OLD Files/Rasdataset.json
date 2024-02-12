@@ -1,0 +1,69 @@
+{
+    "intents": [
+        {
+            "tag": "hello",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey",
+                "Ras hi"
+            ],
+            "responses": [
+                "Hello sir",
+                "Hi sir",
+                "Hello sir!"
+            ]
+        },
+        {
+            "tag": "time",
+            "patterns": [
+                "RAS what time is it?"
+            ],
+            "responses": [
+                "Let me check"
+            ]
+        },
+        {
+            "tag": "desktop",
+            "patterns": [
+                "RAS change directory to desktop",
+                "ras change the directory to desktop"
+            ],
+            "responses": [
+                "Ok",
+                "changing directory to desktop"
+            ]
+        },
+        {
+            "tag": "speak",
+            "patterns": [
+                "RAS speak a text for me"
+            ],
+            "responses": [
+                "ok"
+            ]
+        },
+        {
+            "tag": "open",
+            "patterns": [
+                "Ras open an app for me",
+                "Ras open a file for me"
+            ],
+            "responses": [
+                "Ok sir!",
+                "Okay"
+            ]
+        },
+        {
+            "tag": "directory",
+            "patterns": [
+                "Ras change the directory",
+                "ras change directory"
+            ],
+            "responses": [
+                "ok changing directory",
+                "ok ill do that"
+            ]
+        }
+    ]
+}
